@@ -1,0 +1,14 @@
+{
+   "destination_addresses" : [ "0,0" ],
+   "origin_addresses" : [ "0,0" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

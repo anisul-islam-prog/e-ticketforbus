@@ -1,0 +1,3 @@
+Welcome to the MFRC522 data read example
+Press Ctrl-C to stop.
+Ctrl+C captured, ending read.
